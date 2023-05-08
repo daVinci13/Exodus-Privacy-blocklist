@@ -1,7 +1,7 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
 # More info at https://go.blokada.org/exodusprivacy
-# Generated at 2022-04-22 09:17:42.366696
+# Generated at 2023-02-06 15:02:33.794206
 # Made by Blokada
 
 127.0.0.1 databerries.com
@@ -11,16 +11,13 @@
 127.0.0.1 accengage.com
 127.0.0.1 ad4push.com
 127.0.0.1 ad4screen.com
-127.0.0.1 2mdn.net
 127.0.0.1 dmtry.com
 127.0.0.1 doubleclick.com
-127.0.0.1 doubleclick.net
 127.0.0.1 mng-ads.com
 127.0.0.1 weborama.fr
 127.0.0.1 weborama.net
 127.0.0.1 adsrvr.org
 127.0.0.1 akamai.smartadserver.com
-127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 diff2.smartadserver.com
 127.0.0.1 diff3.smartadserver.com
 127.0.0.1 diff.smartadserver.com
@@ -40,11 +37,7 @@
 127.0.0.1 tmk.smartadserver.com
 127.0.0.1 usw-lax.adsrvr.org
 127.0.0.1 g.jwpsrv.com
-127.0.0.1 jwpltx.com
-127.0.0.1 p.jwpcdn.com
-127.0.0.1 loggly.com
 127.0.0.1 outbrain.com
-127.0.0.1 appsflyer.com
 127.0.0.1 ligatus.com
 127.0.0.1 widespace.com
 127.0.0.1 247realmedia.com
@@ -63,12 +56,9 @@
 127.0.0.1 batch.com
 127.0.0.1 sync2ad.com
 127.0.0.1 flurry.com
-127.0.0.1 hockeyapp.net
 127.0.0.1 crashlytics.com
 127.0.0.1 leanplum.com
-127.0.0.1 etl.tindersparks.com
 127.0.0.1 schibsted.com
-127.0.0.1 schibsted.io
 127.0.0.1 ati-host.net
 127.0.0.1 tealiumiq.com
 127.0.0.1 tiqcdn.com
@@ -80,16 +70,11 @@
 127.0.0.1 mobileapptracking.com
 127.0.0.1 pushwoosh.com
 127.0.0.1 demdex.net
-127.0.0.1 adswizz.com
 127.0.0.1 exacttarget.
 127.0.0.1 omniture.com
-127.0.0.1 omtrdc.net
 127.0.0.1 commander1.com
 127.0.0.1 tagcommander.com
-127.0.0.1 google-analytics.com
-127.0.0.1 firebase.com
 127.0.0.1 eulerian.com
-127.0.0.1 adj.st
 127.0.0.1 adjust.com
 127.0.0.1 chartboost.com
 127.0.0.1 backelite.com
@@ -110,7 +95,6 @@
 127.0.0.1 yt.moatads.com
 127.0.0.1 yts.moatads.com
 127.0.0.1 z.moatads.com
-127.0.0.1 segment.com
 127.0.0.1 management.azure.com
 127.0.0.1 colocator.net
 127.0.0.1 applovin.com
@@ -153,7 +137,6 @@
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 wd.adcolony.com
-127.0.0.1 graph.accountkit.com
 127.0.0.1 proximitykit.radiusnetworks.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 adproxy.fyber.com
@@ -213,7 +196,6 @@
 127.0.0.1 v.ssacdn.com
 127.0.0.1 devices.carnivalmobile.com
 127.0.0.1 decide.mixpanel.com
-127.0.0.1 mixpanel.com
 127.0.0.1 switchboard.mixpanel.com
 127.0.0.1 alog.umeng.com
 127.0.0.1 alogs.umeng.com
@@ -236,7 +218,6 @@
 127.0.0.1 stats.unity3d.com
 127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 device-api.urbanairship.com
-127.0.0.1 urbanairship.com
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 appmetrica.yandex.com
 127.0.0.1 banners-slb.mobile.yandex.net
@@ -244,22 +225,17 @@
 127.0.0.1 mc.yandex.ru
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 startup.mobile.yandex.net
-127.0.0.1 amplitude.com
 127.0.0.1 control.kochava.com
 127.0.0.1 kvinit-prod.api.kochava.com
 127.0.0.1 dc.webtrends.com
-127.0.0.1 webtrends.com
-127.0.0.1 js-agent.newrelic.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 newrelic.com
 127.0.0.1 nr-data.net
 127.0.0.1 quantcast.com
 127.0.0.1 quantcast.net
-127.0.0.1 brahe.apptimize.com
 127.0.0.1 md-a-c.apptimize.com
 127.0.0.1 md-a-s.apptimize.com
 127.0.0.1 sdk.appbrain.com
-127.0.0.1 dynatrace.com
 127.0.0.1 matomo.org
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 appmetrica.yandex.com
@@ -297,7 +273,6 @@
 127.0.0.1 rec.replay.answerscloud.com
 127.0.0.1 a.fiksu.com
 127.0.0.1 sdk.fiksu.com
-127.0.0.1 nexus.ensighten.com
 127.0.0.1 adm.dynamicyield.com
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 st.dynamicyield.com
@@ -311,7 +286,6 @@
 127.0.0.1 adformdsp.net
 127.0.0.1 adx.adform.net
 127.0.0.1 files.adform.net
-127.0.0.1 track.adform.net
 127.0.0.1 adfurikun.jp
 127.0.0.1 ginf.adfurikun.jp
 127.0.0.1 mobvista.com
@@ -345,7 +319,6 @@
 127.0.0.1 v.vungle.com
 127.0.0.1 criteo.com
 127.0.0.1 a.tiles.mapbox.com
-127.0.0.1 optimizely.com
 127.0.0.1 taboola.com
 127.0.0.1 wzrkt.com
 127.0.0.1 tracker-api.my.com
@@ -370,7 +343,6 @@
 127.0.0.1 bugly.qq.com
 127.0.0.1 duapps.com
 127.0.0.1 content.swrve.com
-127.0.0.1 onesignal.com
 127.0.0.1 c2i.startappnetwork.com
 127.0.0.1 c2s.startappnetwork.com
 127.0.0.1 click.startappservice.com
@@ -386,7 +358,6 @@
 127.0.0.1 va.origin.startappservice.com
 127.0.0.1 ads.aerserv.com
 127.0.0.1 debug.aerserv.com
-127.0.0.1 de.ioam.de
 127.0.0.1 target.my.com
 127.0.0.1 tapjoy.com
 127.0.0.1 tapjoyads.com
@@ -410,8 +381,6 @@
 127.0.0.1 analytics-server.gimbal.com
 127.0.0.1 registration.gimbal.com
 127.0.0.1 sdk-info.gimbal.com
-127.0.0.1 cws.conviva.com
-127.0.0.1 auditude.com
 127.0.0.1 instreamatic.com
 127.0.0.1 moodpresence.com
 127.0.0.1 houndify.com
@@ -421,7 +390,6 @@
 127.0.0.1 us-ads.openx.net
 127.0.0.1 ping.tapylitics.com
 127.0.0.1 analytics.yinzcam.com
-127.0.0.1 ooyala.com
 127.0.0.1 kiip.me
 127.0.0.1 log.mobpowertech.com
 127.0.0.1 mobpowertech.com
@@ -430,7 +398,6 @@
 127.0.0.1 adsafeprotected.com
 127.0.0.1 iasds01.com
 127.0.0.1 integralads.com
-127.0.0.1 fwmrm.net
 127.0.0.1 ads.mobclix.com
 127.0.0.1 axonix.com
 127.0.0.1 data.mobclix.com
@@ -481,13 +448,10 @@
 127.0.0.1 pingback.giphy.com
 127.0.0.1 heapanalytics.com
 127.0.0.1 ads.mdotm.com
-127.0.0.1 qualtrics.com
 127.0.0.1 evt.tamoco.com
 127.0.0.1 zapr.in
-127.0.0.1 2mdn.net
 127.0.0.1 dmtry.com
 127.0.0.1 doubleclick.com
-127.0.0.1 doubleclick.net
 127.0.0.1 mng-ads.com
 127.0.0.1 deliver.oztam.com.au
 127.0.0.1 abtasty.com
@@ -518,9 +482,7 @@
 127.0.0.1 tm.amap.com
 127.0.0.1 mst[0-9]*.is.autonavi.com
 127.0.0.1 mt[0-9]*.google.cn
-127.0.0.1 abroad.apilocate.amap.com
 127.0.0.1 apilocate.amap.com
-127.0.0.1 restapi.amap.com
 127.0.0.1 yuntuapi.amap.com
 127.0.0.1 m5.amap.com
 127.0.0.1 wb.amap.com
@@ -528,7 +490,6 @@
 127.0.0.1 wb.amap.com
 127.0.0.1 wb.amap.com
 127.0.0.1 apiinit.amap.com
-127.0.0.1 restapi.amap.com
 127.0.0.1 logs.amap.com
 127.0.0.1 cgicol.amap.com
 127.0.0.1 lbs.amap.com
